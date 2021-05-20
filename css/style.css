@@ -146,6 +146,12 @@ body
     border-radius: 20px;
 }
 
+.releases img:hover
+{
+    border: 2px solid blue;
+    padding: 4px;
+}
+
 
 /* explore-ps */
 
