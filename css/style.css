@@ -81,9 +81,13 @@ body
 .game-list img
 {
     border-radius: 20px;
+    transition: transform 1s;
 }
 
-
+.game-list img:hover
+{
+    transform: scale(1.1);
+}
 
 /* no-limits */
 .no-limits span
