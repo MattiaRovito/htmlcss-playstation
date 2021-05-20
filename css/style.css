@@ -35,6 +35,12 @@ body
     color: rgb(0, 114, 206);
 }
 
+.ps-now button
+{
+    background-color: rgb(245, 245, 245);
+}
+
+
 .btn:hover
 {
     transform: scale(1.1);
@@ -139,10 +145,21 @@ body
 
 
 
+/* ps-now */
+.ps-now
+{
+    background-color: rgb(22, 28, 59);
+}
 
+.ps-now-logo
+{
+    width: 65%;
+}
 
-
-
+.ps-now .avengers
+{
+    width: 90%;
+}
 
 
 /* debug */
