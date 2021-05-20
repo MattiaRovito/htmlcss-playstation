@@ -162,9 +162,25 @@ body
 }
 
 
+
+
+/* social-media */
+.social
+{
+    width: 100px;
+}
+
+
+
+
+
+
 /* debug */
 
-
+.header-bottom
+{
+    height: 70px;
+}
 
 
 .debug .game-list .box
