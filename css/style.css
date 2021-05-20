@@ -97,6 +97,27 @@ body
 }
 
 
+.no-limits h5
+{
+    color: rgb(0, 0, 0);
+}
+
+
+.no-limits i
+{
+    font-size: 10px;
+}
+
+.no-limits-accessories
+{
+    opacity: 0.5;
+}
+
+.no-limits-accessories:hover
+{
+    opacity: 1;
+}
+
 
 /* takes-two */
 
