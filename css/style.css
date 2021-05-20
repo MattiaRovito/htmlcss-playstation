@@ -43,6 +43,22 @@ body
 
 
 
+/* game-list */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -59,5 +75,12 @@ body
 {
     width: 400px;
     height: 200px;
+    background-color: red;
+}
+
+.debug .game-list .box
+{
+    width: 150px;
+    height: 100px;
     background-color: red;
 }
