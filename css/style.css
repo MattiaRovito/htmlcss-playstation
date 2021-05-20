@@ -90,6 +90,11 @@ body
 
 
 
+/* releases */
+.releases
+{
+    background-color: rgb(31, 31, 31);
+}
 
 
 
@@ -120,5 +125,12 @@ body
 {
     width: 150px;
     height: 100px;
+    background-color: red;
+}
+
+.debug .releases .box
+{
+    width: 150px;
+    height: 150px;
     background-color: red;
 }
