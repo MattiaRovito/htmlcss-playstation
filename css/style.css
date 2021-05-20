@@ -6,8 +6,12 @@ body
 /* commons */
 
 
+/* button */
 
-
+.jumbotron button, .takes-two button
+{
+    background-color: rgb(205, 61, 15);
+}
 
 
 
@@ -36,22 +40,11 @@ body
 .jumbotron
 {
     background-image:url(../img/jumbo-bg.png);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
-    height: 500px;
+    height: 80vh;
 }
 
-
-.jumbotron h2, p
-{
-    color: rgb(255, 255, 255);
-}
-
-
-.jumbotron button
-{
-    background-color: rgb(205, 61, 15);
-}
 
 
 /* game-list */
@@ -85,12 +78,15 @@ body
 
 
 
+/* takes-two */
 
-
-
-
-
-
+.takes-two
+{
+    background-image:url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
 
 
 
