@@ -97,6 +97,17 @@ body
 }
 
 
+/* explore-ps */
+
+.explore-ps i
+{
+    font-size: 16px;
+}
+
+.explore-ps p
+{
+    color: rgb(114, 114, 114);
+}
 
 
 
@@ -107,12 +118,7 @@ body
     height: 70px;
 }
 
-/* .debug .jumbotron .box
-{
-    width: 400px;
-    height: 200px;
-    background-color: red;
-} */
+
 
 .debug .game-list .box
 {
@@ -132,5 +138,12 @@ body
 {
     width: 150px;
     height: 150px;
+    background-color: red;
+}
+
+.debug .explore-ps .box
+{
+    width: 300px;
+    height: 300px;
     background-color: red;
 }
