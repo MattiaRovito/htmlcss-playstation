@@ -144,6 +144,8 @@ i
 .releases img
 {
     border-radius: 20px;
+    /* width: 180px; */
+    /* margin: 0 15%; */
 }
 
 .releases img:hover
