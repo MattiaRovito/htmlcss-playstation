@@ -74,7 +74,7 @@ i
 .jumbotron
 {
     background-image:url(../img/jumbo-bg.png);
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
     height: 80vh;
 }
