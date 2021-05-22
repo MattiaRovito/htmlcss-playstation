@@ -44,6 +44,10 @@ i
     background-color: rgb(245, 245, 245);
 }
 
+.header-bottom button
+{
+    background-color: rgb(96, 96, 96);
+}
 
 .btn:hover
 {
@@ -89,6 +93,7 @@ i
 
 
 
+
 /* jumbotron */
 .jumbotron
 {
@@ -96,6 +101,7 @@ i
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
+    margin-top: 100px;
 }
 
 
