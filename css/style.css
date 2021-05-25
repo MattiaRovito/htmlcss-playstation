@@ -91,23 +91,16 @@ i
 
 
 
-
-
-
 /* jumbotron */
 .jumbotron
 {
     background-image:url(../img/jumbo-bg.png);
     background-position: center;
     background-repeat: no-repeat;
+    background-size: 100%;
     height: 100vh;
-    margin-top: 100px;
+    margin-top: 30px;
 }
-
-
-
-
-
 
 /* game-list */
 .game-list img
